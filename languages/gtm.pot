@@ -1,0 +1,58 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FK Google Tag Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-12 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: fk-google-tag-manager.php:76 fk-google-tag-manager.php:108
+msgid ""
+"Add a hook <b><code>do_action('wp_body')</code></b> after opening tag <b>&lt;"
+"body&gt;</b>"
+msgstr ""
+
+#: fk-google-tag-manager.php:90
+msgid "Google Tag Manager ID"
+msgstr ""
+
+#: fk-google-tag-manager.php:102
+msgid "GTM-XXXXXXX"
+msgstr ""
+
+#: fk-google-tag-manager.php:105
+msgid ""
+"You can get yours <b>container ID</b> <a href=\"https://www.google."
+"com/analytics/tag-manager/\" target=\"_blank\">here</a>!"
+msgstr ""
+
+#: fk-google-tag-manager.php:106
+msgid "Use comma without space (,) to enter multiple IDs."
+msgstr ""
+
+#. Name of the plugin
+msgid "FK Google Tag Manager"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is an implementation of the new Tag Management system from Google. It "
+"adds a field to the existing General Settings page for the ID."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://joompress.biz"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kudinov Fedor"
+msgstr ""
